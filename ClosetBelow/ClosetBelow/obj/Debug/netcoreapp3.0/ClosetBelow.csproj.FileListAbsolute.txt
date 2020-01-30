@@ -1,0 +1,11 @@
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ClosetBelow\ClosetBelow\bin\Debug\netcoreapp3.0\ClosetBelow.exe
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ClosetBelow\ClosetBelow\bin\Debug\netcoreapp3.0\ClosetBelow.deps.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ClosetBelow\ClosetBelow\bin\Debug\netcoreapp3.0\ClosetBelow.runtimeconfig.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ClosetBelow\ClosetBelow\bin\Debug\netcoreapp3.0\ClosetBelow.runtimeconfig.dev.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ClosetBelow\ClosetBelow\bin\Debug\netcoreapp3.0\ClosetBelow.dll
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ClosetBelow\ClosetBelow\bin\Debug\netcoreapp3.0\ClosetBelow.pdb
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ClosetBelow\ClosetBelow\obj\Debug\netcoreapp3.0\ClosetBelow.csprojAssemblyReference.cache
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ClosetBelow\ClosetBelow\obj\Debug\netcoreapp3.0\ClosetBelow.AssemblyInfoInputs.cache
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ClosetBelow\ClosetBelow\obj\Debug\netcoreapp3.0\ClosetBelow.AssemblyInfo.cs
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ClosetBelow\ClosetBelow\obj\Debug\netcoreapp3.0\ClosetBelow.dll
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ClosetBelow\ClosetBelow\obj\Debug\netcoreapp3.0\ClosetBelow.pdb
